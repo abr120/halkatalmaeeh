@@ -1,0 +1,27 @@
+﻿[
+ {
+     "title":" حكايات عالمية - كامل جميع الحلقات ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/halkatalmaeeh/master/01.jpg",
+    "arguments":[
+      "PLEttQFJU8XUI_hASUaeJRWBaz4o-_FxF8","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+ {
+     "title":" قصص الشعوب  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/halkatalmaeeh/master/02.jpg",
+    "arguments":[
+      "PL8XovLToH9hZiaA9Tmqk5U8FdaaDEG0ii","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+ {
+     "title":"حكايات عالمية - جميع الحلقات بالترتيب ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/halkatalmaeeh/master/03.jpg",
+    "arguments":[
+      "PLwt50ce1o3VZ0Mymm-R2LEp38RGnR14M3","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  }
+
+]
